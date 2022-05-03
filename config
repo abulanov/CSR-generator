@@ -1,0 +1,5 @@
+---
+'apn': 'internet.mts.ru'
+'plmn': '25001'
+'interface': 'eth0'
+'source': '10.0.0.0/8' 
